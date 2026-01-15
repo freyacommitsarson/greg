@@ -14,3 +14,7 @@ a:link {
   text-decoration: none;
   font-family: trebuchet MS;
 }
+pre{
+  color: rgb(208, 133, 255);
+  font-family: trebuchet MS;
+}
